@@ -12,7 +12,7 @@ Warning: To run this project put it on the default repo of the IDE.
 
 ### Contributing
 
-Please feel free to contribute but follow these instructions to do so.
+Please feel free to contribute but [follow these instructions](https://github.com/SEdilson/car-rent-college-project/blob/master/CONTRIBUTING.md) to do so.
 
 ### Main contributors
 
