@@ -22,4 +22,4 @@ Please feel free to contribute but follow these instructions to do so.
 
 ### License
 
-GNU GPL
+[GNU GPL](https://github.com/SEdilson/car-rent-college-project/blob/master/LICENSE)
